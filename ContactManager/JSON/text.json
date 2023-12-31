@@ -1,0 +1,135 @@
+[
+  {
+    "FirstName": "Elsa",
+    "LastName": "Lundqvist",
+    "PhoneNumber": "070-1234567",
+    "Email": "elsa.lundqvist@example.com",
+    "Address": "123 Björk Lane"
+  },
+  {
+    "FirstName": "Oscar",
+    "LastName": "Svensson",
+    "PhoneNumber": "072-3456789",
+    "Email": "oscar.svensson@example.com",
+    "Address": "456 Ek Blvd, Sjösidan"
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": "Andersson",
+    "PhoneNumber": "073-9876543",
+    "Email": "emma.andersson@example.com",
+    "Address": "789 Tall Blvd, Höjd"
+  },
+  {
+    "FirstName": "Liam",
+    "LastName": "Persson",
+    "PhoneNumber": "076-1112222",
+    "Email": "liam.persson@example.com",
+    "Address": "555 Tall Ave, Centrum"
+  },
+  {
+    "FirstName": "Elin",
+    "LastName": "Larsson",
+    "PhoneNumber": "070-9998888",
+    "Email": "elin.larsson@example.com",
+    "Address": "987 Tall Ave, Toppen"
+  },
+  {
+    "FirstName": "Victor",
+    "LastName": "Gustafsson",
+    "PhoneNumber": "072-3456789",
+    "Email": "victor.gustafsson@example.com",
+    "Address": "123 Lönn St, Parksidan"
+  },
+  {
+    "FirstName": "Isak",
+    "LastName": "Johansson",
+    "PhoneNumber": "073-4445555",
+    "Email": "isak.johansson@example.com",
+    "Address": "987 Björk Lane"
+  },
+  {
+    "FirstName": "Alva",
+    "LastName": "Nilsson",
+    "PhoneNumber": "076-1234567",
+    "Email": "alva.nilsson@example.com",
+    "Address": "789 Tall St"
+  },
+  {
+    "FirstName": "Ella",
+    "LastName": "Wikström",
+    "PhoneNumber": "070-8889999",
+    "Email": "ella.wikstrom@example.com",
+    "Address": "321 Ek Ave, Sjösidan"
+  },
+  {
+    "FirstName": "Noah",
+    "LastName": "Lindqvist",
+    "PhoneNumber": "076-5556666",
+    "Email": "noah.lindqvist@example.com",
+    "Address": "789 Tall Blvd, Strand"
+  },
+  {
+    "FirstName": "Maja",
+    "LastName": "Andersson",
+    "PhoneNumber": "073-1112222",
+    "Email": "maja.andersson@example.com",
+    "Address": "123 Tall Blvd, Strand"
+  },
+  {
+    "FirstName": "Olivia",
+    "LastName": "Jönsson",
+    "PhoneNumber": "070-7778888",
+    "Email": "olivia.jonsson@example.com",
+    "Address": "789 Björk Lane"
+  },
+  {
+    "FirstName": "William",
+    "LastName": "Mårtensson",
+    "PhoneNumber": "072-9998888",
+    "Email": "william.martensson@example.com",
+    "Address": "789 Tall St, Trädgård"
+  },
+  {
+    "FirstName": "Alice",
+    "LastName": "Lundgren",
+    "PhoneNumber": "073-6669999",
+    "Email": "alice.lundgren@example.com",
+    "Address": "321 Ek Ave, Höjd"
+  },
+  {
+    "FirstName": "Erik",
+    "LastName": "Wallin",
+    "PhoneNumber": "076-4445555",
+    "Email": "erik.wallin@example.com",
+    "Address": "123 Tall Blvd, Finansdistriktet"
+  },
+  {
+    "FirstName": "Mia",
+    "LastName": "Andersson",
+    "PhoneNumber": "070-7779999",
+    "Email": "mia.andersson@example.com",
+    "Address": "321 Lönn St, Centrum"
+  },
+  {
+    "FirstName": "Alexander",
+    "LastName": "Persson",
+    "PhoneNumber": "072-3334444",
+    "Email": "alexander.persson@example.com",
+    "Address": "456 Tall Ave, Dal"
+  },
+  {
+    "FirstName": "Nora",
+    "LastName": "Lindström",
+    "PhoneNumber": "073-5556666",
+    "Email": "nora.lindstrom@example.com",
+    "Address": "987 Lönn Lane"
+  },
+  {
+    "FirstName": "Lucas",
+    "LastName": "Lundqvist",
+    "PhoneNumber": "076-1234567",
+    "Email": "lucas.lundqvist@example.com",
+    "Address": "456 Ek Blvd, Äng"
+  }
+]
