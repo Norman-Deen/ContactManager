@@ -27,7 +27,7 @@ ContactManager/
 ├── Program.cs                  # Entry point of the application
 ├── ContactManager.csproj       # Project file
 
-````
+```
 
 ---
 
@@ -40,8 +40,8 @@ ContactManager/
 ### Run the application
 
 ```bash
-dotnet run --project ContactManager.csproj
-````
+dotnet run --project ContactManager/ContactManager.csproj
+```
 
 The program will load contacts from `JSON/text.json` and provide console interaction.
 
